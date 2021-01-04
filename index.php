@@ -8,6 +8,7 @@
 <body>
     <h2>daftar absensi mahasiswa</h2>
     <ol>
+     <!--ini adalah perintah untuk membuat list-->
     <?php 
     for ($i=1; $i <=10; $i++){
         echo"<li>nama mahasiswa ke -$i </li>"
