@@ -1,2 +1,2 @@
 # php-new-bie
-ini dalah sorcode untuk membuat biperulangan for agartidak menulis berulang ulang
+ini adalah sorcode php mengggunakan perulangan for 
