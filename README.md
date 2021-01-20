@@ -1,2 +1,2 @@
 # php-new-bie
-ini adalah sorcode php mengggunakan perulangan for 
+ini adalah sorcode php menggunakan perulangan for 
